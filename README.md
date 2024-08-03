@@ -1,2 +1,2 @@
 # Weather-app-project
-A Weather app which shows the weather based on location
+A Dynamic Weather application using HTML, CSS and Javascript which shows the weather based on location
